@@ -18,9 +18,13 @@ me to see web applications from different angles and enriches my experience.
 
 ---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## My Skill Set:
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/AndSky.png" alt="TryHackMe">
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/AndreySkyLeetCode?theme=unicorn)
+
+<table><tr><td valign="top" width="33%">
 
 
 ### Frontend  
