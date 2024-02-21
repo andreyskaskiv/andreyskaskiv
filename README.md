@@ -18,7 +18,7 @@ me to see web applications from different angles and enriches my experience.
 
 ---
 
-## My Skill Set:
+## My Skill Set :
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/AndSky.png" alt="TryHackMe">
 
