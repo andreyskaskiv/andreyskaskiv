@@ -18,12 +18,11 @@ me to see web applications from different angles and enriches my experience.
 
 ---
 
-## My Skill Set :
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/AndSky.png" alt="TryHackMe">
-
+## My Skill Set:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AndreySkyLeetCode?theme=unicorn)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/AndSky.png" alt="TryHackMe">
 
 <table><tr><td valign="top" width="33%">
 
