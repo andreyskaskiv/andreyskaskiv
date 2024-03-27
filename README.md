@@ -21,7 +21,7 @@ me to see web applications from different angles and enriches my experience.
 ## My Skill Set:
 <a href="https://tryhackme.com/p/AndSky">My profile TryHackMe</a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/AndSky.png" alt="TryHackMe">
+<script src="https://tryhackme.com/badge/2666641"></script>
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AndreySkyLeetCode?theme=unicorn)
